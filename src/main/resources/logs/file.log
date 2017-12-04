@@ -1,0 +1,144 @@
+1|2017-12-04 18:39:37|ArrayListDemo|INFO|Hello the world!
+1|2017-12-04 18:39:37|ArrayListDemo|INFO|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:40:12|ArrayListDemo|INFO|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:40:41|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:42:23|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:49:11|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 18:49:11|ArrayListDemo|INFO|The index of banana is: 1
+0|2017-12-04 18:49:22|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:49:22|ArrayListDemo|INFO|The index of banana is: -1
+0|2017-12-04 18:51:06|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 18:51:06|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 18:51:06|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+0|2017-12-04 18:53:16|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 18:53:16|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 18:53:16|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 18:53:16|ArrayListDemo|INFO|The arraylist size is: 4
+0|2017-12-04 18:56:00|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 18:56:00|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 18:56:00|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 18:56:00|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 18:56:00|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+0|2017-12-04 18:59:09|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 18:59:09|ArrayListDemo|INFO|The index of banana is: 1
+0|2017-12-04 18:59:09|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+0|2017-12-04 18:59:09|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 18:59:09|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 18:59:09|ArrayListDemo|INFO|The item is the index 0 is:apple
+0|2017-12-04 19:01:28|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|The item is the index 0 is:apple
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Index: 0 - Item: apple
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Index: 1 - Item: banana
+1|2017-12-04 19:01:28|ArrayListDemo|INFO|Index: 2 - Item: pear
+2|2017-12-04 19:01:28|ArrayListDemo|INFO|Index: 3 - Item: cherry
+0|2017-12-04 19:03:50|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 19:03:50|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 19:03:50|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 19:03:50|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 19:03:50|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 19:03:50|ArrayListDemo|INFO|The item is the index 0 is:apple
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Index: 0 - Item: apple
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Index: 1 - Item: banana
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Index: 2 - Item: pear
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Index: 3 - Item: cherry
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Retrieving items using foreach loop
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Item is apple
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Item is banana
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Item is pear
+2|2017-12-04 19:03:50|ArrayListDemo|INFO|Item is cherry
+0|2017-12-04 19:12:43|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+0|2017-12-04 19:12:43|ArrayListDemo|INFO|The index of banana is: 1
+0|2017-12-04 19:12:43|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+0|2017-12-04 19:12:43|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|The item is the index 0 is:apple
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Index: 0 - Item: apple
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Index: 1 - Item: banana
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Index: 2 - Item: pear
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Index: 3 - Item: cherry
+1|2017-12-04 19:12:43|ArrayListDemo|INFO|Retrieving items using foreach loop
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is apple
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is banana
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is pear
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is cherry
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Retrieving items using iterator
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is: apple
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is: banana
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is: pear
+2|2017-12-04 19:12:43|ArrayListDemo|INFO|Item is: cherry
+0|2017-12-04 19:14:50|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|The item is the index 0 is:apple
+1|2017-12-04 19:14:50|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Index: 0 - Item: apple
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Index: 1 - Item: banana
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Index: 2 - Item: pear
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Index: 3 - Item: cherry
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Retrieving items using foreach loop
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is apple
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is banana
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is pear
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is cherry
+2|2017-12-04 19:14:50|ArrayListDemo|INFO|Retrieving items using iterator
+3|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is: apple
+3|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is: banana
+3|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is: pear
+3|2017-12-04 19:14:50|ArrayListDemo|INFO|Item is: cherry
+3|2017-12-04 19:14:50|ArrayListDemo|INFO|The arraylist after the replacement is:[apple, watermolen, pear, cherry]
+0|2017-12-04 19:16:43|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 19:16:43|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 19:16:43|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 19:16:43|ArrayListDemo|INFO|The size of arraylist is: 4
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|The item is the index 0 is:apple
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Index: 0 - Item: apple
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Index: 1 - Item: banana
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Index: 2 - Item: pear
+2|2017-12-04 19:16:43|ArrayListDemo|INFO|Index: 3 - Item: cherry
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Retrieving items using foreach loop
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is apple
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is banana
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is pear
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is cherry
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Retrieving items using iterator
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is: apple
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is: banana
+3|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is: pear
+4|2017-12-04 19:16:43|ArrayListDemo|INFO|Item is: cherry
+4|2017-12-04 19:16:43|ArrayListDemo|INFO|The arraylist after the replacement is:[apple, watermolen, pear, cherry]
+4|2017-12-04 19:16:43|ArrayListDemo|INFO|he final contents of the arraylist are: [watermolen, cherry]
+0|2017-12-04 19:20:03|ArrayListDemo|INFO|ArrayList Testing|The arraylist contains the following elements: [apple, banana, pear, cherry]
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|The index of banana is: 1
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|Checking if the arraylist is empty: false
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|The size of arraylist is: 4
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|Checking if the arraylist contains the object Item5:false
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|The item is the index 0 is:apple
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|Retrieving items with loop using index and size list
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|Index: 0 - Item: apple
+1|2017-12-04 19:20:03|ArrayListDemo|INFO|Index: 1 - Item: banana
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Index: 2 - Item: pear
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Index: 3 - Item: cherry
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Retrieving items using foreach loop
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is apple
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is banana
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is pear
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is cherry
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Retrieving items using iterator
+2|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is: apple
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is: banana
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is: pear
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|Item is: cherry
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|The arraylist after the replacement is:[apple, watermolen, pear, cherry]
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|The final contents of the arraylist are: [watermolen, cherry]
+3|2017-12-04 19:20:03|ArrayListDemo|INFO|The array created after the conversion of our arraylist is: [watermolen, cherry]
