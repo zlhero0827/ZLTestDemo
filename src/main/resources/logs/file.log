@@ -218,3 +218,17 @@
 2|2017-12-04 23:09:17|HashMapDemo|INFO|日本
 3|2017-12-04 23:09:17|HashMapDemo|INFO|kr, 
 3|2017-12-04 23:09:17|HashMapDemo|INFO|韩国
+0|2017-12-06 17:01:35|HashMapDemo|INFO|Print the HashMap: {jp=日本, kr=韩国, cn=中国}
+0|2017-12-06 17:01:35|HashMapDemo|INFO|Print the value of cn key: 中国
+1|2017-12-06 17:01:35|HashMapDemo|INFO|There are contains key of 'cn': true
+1|2017-12-06 17:01:35|HashMapDemo|INFO|Print the HashMap's key: [jp, kr, cn]
+1|2017-12-06 17:01:35|HashMapDemo|INFO|If the HashMap's empty: false
+1|2017-12-06 17:01:35|HashMapDemo|INFO|There are contains key of 'cn' after removed: false
+1|2017-12-06 17:01:35|HashMapDemo|INFO|key: jp
+2|2017-12-06 17:01:35|HashMapDemo|INFO|value: 日本
+2|2017-12-06 17:01:35|HashMapDemo|INFO|key: kr
+2|2017-12-06 17:01:35|HashMapDemo|INFO|value: 韩国
+2|2017-12-06 17:01:35|HashMapDemo|INFO|jp, 
+2|2017-12-06 17:01:35|HashMapDemo|INFO|日本
+2|2017-12-06 17:01:35|HashMapDemo|INFO|kr, 
+2|2017-12-06 17:01:35|HashMapDemo|INFO|韩国
