@@ -232,32 +232,36 @@
 2|2017-12-06 17:01:35|HashMapDemo|INFO|日本
 2|2017-12-06 17:01:35|HashMapDemo|INFO|kr, 
 2|2017-12-06 17:01:35|HashMapDemo|INFO|韩国
-0|2018-01-12 16:31:26|ForEach|INFO|Hello E
-0|2018-01-12 16:42:21|ForEach|INFO|A
-0|2018-01-12 16:42:21|ForEach|INFO|B
-1|2018-01-12 16:42:21|ForEach|INFO|C
-1|2018-01-12 16:42:21|ForEach|INFO|D
-1|2018-01-12 16:42:21|ForEach|INFO|E
-0|2018-01-12 16:46:16|ForEach|INFO|A
-0|2018-01-12 16:46:16|ForEach|INFO|B
-1|2018-01-12 16:46:16|ForEach|INFO|C
-1|2018-01-12 16:46:16|ForEach|INFO|D
-1|2018-01-12 16:46:16|ForEach|INFO|E
-0|2018-01-12 16:48:53|ForEach|INFO|A
-1|2018-01-12 16:48:53|ForEach|INFO|B
-1|2018-01-12 16:48:53|ForEach|INFO|C
-1|2018-01-12 16:48:53|ForEach|INFO|D
-1|2018-01-12 16:48:53|ForEach|INFO|E
-1|2018-01-12 16:48:53|ForEach|INFO|C
-0|2018-01-12 16:49:25|ForEach|INFO|A
-1|2018-01-12 16:49:25|ForEach|INFO|B
-1|2018-01-12 16:49:25|ForEach|INFO|C
-1|2018-01-12 16:49:25|ForEach|INFO|D
-1|2018-01-12 16:49:25|ForEach|INFO|E
-2|2018-01-12 16:49:25|ForEach|INFO|C
-0|2018-01-12 16:50:22|ForEach|INFO|A
-1|2018-01-12 16:50:22|ForEach|INFO|B
-1|2018-01-12 16:50:22|ForEach|INFO|C
-1|2018-01-12 16:50:22|ForEach|INFO|D
-1|2018-01-12 16:50:22|ForEach|INFO|E
-2|2018-01-12 16:50:22|ForEach|INFO|C
+0|2018-01-12 16:31:26|ForEachDemo|INFO|Hello E
+0|2018-01-12 16:42:21|ForEachDemo|INFO|A
+0|2018-01-12 16:42:21|ForEachDemo|INFO|B
+1|2018-01-12 16:42:21|ForEachDemo|INFO|C
+1|2018-01-12 16:42:21|ForEachDemo|INFO|D
+1|2018-01-12 16:42:21|ForEachDemo|INFO|E
+0|2018-01-12 16:46:16|ForEachDemo|INFO|A
+0|2018-01-12 16:46:16|ForEachDemo|INFO|B
+1|2018-01-12 16:46:16|ForEachDemo|INFO|C
+1|2018-01-12 16:46:16|ForEachDemo|INFO|D
+1|2018-01-12 16:46:16|ForEachDemo|INFO|E
+0|2018-01-12 16:48:53|ForEachDemo|INFO|A
+1|2018-01-12 16:48:53|ForEachDemo|INFO|B
+1|2018-01-12 16:48:53|ForEachDemo|INFO|C
+1|2018-01-12 16:48:53|ForEachDemo|INFO|D
+1|2018-01-12 16:48:53|ForEachDemo|INFO|E
+1|2018-01-12 16:48:53|ForEachDemo|INFO|C
+0|2018-01-12 16:49:25|ForEachDemo|INFO|A
+1|2018-01-12 16:49:25|ForEachDemo|INFO|B
+1|2018-01-12 16:49:25|ForEachDemo|INFO|C
+1|2018-01-12 16:49:25|ForEachDemo|INFO|D
+1|2018-01-12 16:49:25|ForEachDemo|INFO|E
+2|2018-01-12 16:49:25|ForEachDemo|INFO|C
+0|2018-01-12 16:50:22|ForEachDemo|INFO|A
+1|2018-01-12 16:50:22|ForEachDemo|INFO|B
+1|2018-01-12 16:50:22|ForEachDemo|INFO|C
+1|2018-01-12 16:50:22|ForEachDemo|INFO|D
+1|2018-01-12 16:50:22|ForEachDemo|INFO|E
+2|2018-01-12 16:50:22|ForEachDemo|INFO|C
+1|2018-01-17 15:50:38|org.springframework.context.support.ClassPathXmlApplicationContext|INFO|Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c2e1f26: startup date [Wed Jan 17 15:50:38 CST 2018]; root of context hierarchy
+38|2018-01-17 15:50:38|org.springframework.beans.factory.xml.XmlBeanDefinitionReader|INFO|Loading XML bean definitions from class path resource [beans.xml]
+0|2018-01-17 15:51:02|org.springframework.context.support.ClassPathXmlApplicationContext|INFO|Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dcf3e99: startup date [Wed Jan 17 15:51:02 CST 2018]; root of context hierarchy
+35|2018-01-17 15:51:02|org.springframework.beans.factory.xml.XmlBeanDefinitionReader|INFO|Loading XML bean definitions from class path resource [beans.xml]

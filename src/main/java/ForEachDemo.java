@@ -7,8 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class ForEach {
-    private static final Logger LOG = LoggerFactory.getLogger(ForEach.class);
+public class ForEachDemo {
+    private static final Logger LOG = LoggerFactory.getLogger(ForEachDemo.class);
 
     /**
      * forEach遍历Map
