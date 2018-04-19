@@ -1,5 +1,7 @@
 import com.alibaba.fastjson.JSONObject;
 import org.apache.commons.collections.map.HashedMap;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -10,6 +12,7 @@ import java.util.Map;
  * Created by zhulei on 2017/12/21.
  */
 public class JsonDemo {
+    private static final Logger LOG = LoggerFactory.getLogger(JsonDemo.class);
     /**
      * 1 、使用Map创建json
      */
@@ -30,6 +33,7 @@ public class JsonDemo {
         list.add(hashmap);
         json.put("code",list);
 
-        System.out.println("方法名:createJSONByMap()---" + json);
+        LOG.info("方法名:createJSONByMap()---" + json);
+
     }
 }

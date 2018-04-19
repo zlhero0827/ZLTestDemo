@@ -218,3 +218,4 @@
 2|2017-12-04 23:09:17|HashMapDemo|INFO|日本
 3|2017-12-04 23:09:17|HashMapDemo|INFO|kr, 
 3|2017-12-04 23:09:17|HashMapDemo|INFO|韩国
+0|2017-12-22 22:26:28|JsonDemo|INFO|方法名:createJSONByMap()---{"name":"老王","age":35,"height":1.73,"major":["理发","挖掘机"],"hasGirlFriend":false,"code":[{"香蕉":"小王","梨":"小李","苹果":"小明"}]}
