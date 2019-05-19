@@ -3,3 +3,6 @@
 *.iml
 out
 gen
+/src/main/resources/logs/file.log
+/.gitignore
+/logContentFile.log
